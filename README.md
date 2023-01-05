@@ -1,6 +1,6 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> <br/>Fancy seeing you here!</h1>
 <p>I am Mark Kasule, a computer sciencist and a software developer from Washington DC. Always open to collaborating on projects and innovative/disruptive ideas.</p>
-<h2>Did I mention that.. 😃</h2>
+<h2>😃 Did I mention that..</h2>
 <ul>
   <li>👀 I’m open to adding new technologies to my Arsenal ⚡️.</li>
   <li>🌱 I’m currently working on a couple of NextJs serverside applications.</li>
@@ -14,7 +14,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-elitebytecode-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/elitebytecode/)](https://twitter.com/elitebytecode)
 
 
-<h2>Did you Know? 🧩</h2> 
+<h2>🧩 Did you Know?</h2> 
 “The best thing about a boolean is even if you are wrong, you are only off by a bit.”
 
 <h2>My life in loops 🔁</h2>
@@ -22,7 +22,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mkasulecoder&theme=monokai-metallian&mode=weekly)](https://git.io/streak-stats)
 
-<h2>⚡ Technologies 🚧</h2>
+<h2>🚧 Technologies</h2>
 
 ![Next.js](https://img.shields.io/badge/-Next.js-teal?style=flat-square&logo=Next.js)
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
