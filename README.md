@@ -18,9 +18,8 @@
 “The best thing about a boolean is even if you are wrong, you are only off by a bit.”
 
 <h2>My life in loops 🔁</h2>
-<p>Ahh, These numbers obviosuly luck the time I spend googling to fix 🐞, but hey it is what it is.</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mkasulecoder&theme=monokai-metallian&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mkasulecoder&theme=monokai-metallian&mode=daily)](https://git.io/streak-stats)
 
 <h2>🚧 Technologies</h2>
 
