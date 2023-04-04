@@ -1,10 +1,10 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> <br/>Fancy seeing you here!</h1>
 <p>I am Mark Kasule, Java, NextJs, Python-Django, Mongodb, SQL, Postgres. Basically, I'm a polyglot who can speak to databases and web frameworks in their own language. When I'm not coding, you can find me trying to explain recursion to my 🐶 or trying to find a bug that only occurs on production. If you have a coding problem, I'm your guy. If you have a bug infestation, call an exterminator.</p>
 <h2>😃 Did I mention that..</h2>
-<ul>
-  <li>🧱 I'm coffeer and Tech enthusiat</li>
-  <li>📫 Let's get in touch, coffee on me!</li>
-</ul>
+<qoute>
+  "I code. I caffeinate. I repeat. When I'm not debugging, I'm probably googling. My superpower? Turning coffee into code. In my free time, I like to tinker with machines, break things, and then fix them again (sometimes). Oh, and I'm pretty sure I can write a program to solve world hunger, I just haven't had enough coffee yet."
+</qoute>
+<hr/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-elitebytecode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/markkasule](https://www.linkedin.com/in/markkasule)/)](https://www.linkedin.com/in/markkasule/)
 [![Youtube Badge](https://img.shields.io/badge/-elitebytecode-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@elitebytecode)](https://www.youtube.com/@elitebytecode)
@@ -13,7 +13,7 @@
 
 
 <h2>🧩 Did you Know?</h2> 
-“The best thing about a boolean is even if you are wrong, you are only off by a bit.”
+“Debugging is like being a detective in a crime movie where you are also the murderer.”
 
 <h2>My life in loops 🔁</h2>
 
