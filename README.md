@@ -1,9 +1,7 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> <br/>Fancy seeing you here!</h1>
-<p>I am Mark Kasule, a computer sciencist and a software developer from Washington DC. Always open to collaborating on projects and innovative/disruptive ideas.</p>
+<p>I am Mark Kasule, Java, NextJs, Python-Django, Mongodb, SQL, Postgres. Basically, I'm a polyglot who can speak to databases and web frameworks in their own language. When I'm not coding, you can find me trying to explain recursion to my 🐶 or trying to find a bug that only occurs on production. If you have a coding problem, I'm your guy. If you have a bug infestation, call an exterminator.</p>
 <h2>😃 Did I mention that..</h2>
 <ul>
-  <li>👀 I’m open to adding new technologies to my Arsenal ⚡️.</li>
-  <li>🌱 I’m currently working on a couple of NextJs serverside applications.</li>
   <li>🧱 I'm coffeer and Tech enthusiat</li>
   <li>📫 Let's get in touch, coffee on me!</li>
 </ul>
