@@ -1,8 +1,5 @@
-<h1>Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> <br/>Fancy seeing you here!</h1>
+<h1>Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> <br/>Fancy seeing you here!</h1>
 <h2>I am Mark Kasule</h2> 
-<code>Java-Spring | Javascript - React.Js & NextJs | Python-Django | AWS | NoSQL MongoDB | SQL - Postgres | PowerBI | Scikit-Learn | Pandas | Numpy</code>
-# 👋 Hello, World! I'm
-
 ## 🚀 Software Engineer & Data Scientist Extraordinaire
 
 I'm a Software and Machine Learning Engineer based in Washington D.C., specializing in user-friendly frontend UIs and robust backend systems while integrating Machine Learning models into applications. With over 7 years of experience, I have made significant impacts across various agencies, consulted for startups, and collaborated with talented teams to develop digital products in sectors like Material Science, E-commerce, Real Estate, Healthcare, Finance, and Insurance. Let's collaborate to drive innovation and create impactful solutions for your business challenges.
@@ -18,10 +15,13 @@ I'm a Software and Machine Learning Engineer based in Washington D.C., specializ
 
 - Python (I can Python faster than a snake can slither)
 - Java (I spring into action with Spring Boot)
+- Javascript - React.Js & NextJs
 - Data Analysis (I find needles in haystacks, then analyze the hay)
 - Machine Learning (Teaching machines to learn, so I don't have to)
 - PyTorch (Lighting up neural networks like it's the 4th of July)
-- Django (Making web frameworks as cool as the Django theme song)
+- Django (Making web frameworks as cool as the Django theme song) </br>
+
+<code> AWS | NoSQL MongoDB | SQL - Postgres | PowerBI | Scikit-Learn | Pandas | Numpy</code>
 
 ### 🎭 When I'm Not Coding
 
