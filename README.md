@@ -1,7 +1,7 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> <br/>Fancy seeing you here!</h1>
 <h2>I am Mark Kasule</h2> 
 <code>Java-Spring | Javascript - React.Js & NextJs | Python-Django | AWS | NoSQL MongoDB | SQL - Postgres | PowerBI | Scikit-Learn | Pandas | Numpy</code>
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm
 
 ## 🚀 Software Engineer & Data Scientist Extraordinaire
 
