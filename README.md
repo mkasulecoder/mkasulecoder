@@ -3,9 +3,9 @@
 <code>Java-Spring | Javascript - React.Js & NextJs | Python-Django | AWS | NoSQL MongoDB | SQL - Postgres | PowerBI | Scikit-Learn | Pandas | Numpy</code>
 # 👋 Hello, World! I'm [Your Name]
 
-## 🚀 Full-Stack Developer & Data Scientist Extraordinaire
+## 🚀 Software Engineer & Data Scientist Extraordinaire
 
-I'm a code-wielding, data-wrangling wizard with over 7 years of experience in making computers do my bidding. I speak fluent Python, Java, and SQL, and I'm pretty sure I can convince a toaster to run a neural network if given enough time and coffee.
+I'm a Software and Machine Learning Engineer based in Washington D.C., specializing in user-friendly frontend UIs and robust backend systems while integrating Machine Learning models into applications. With over 7 years of experience, I have made significant impacts across various agencies, consulted for startups, and collaborated with talented teams to develop digital products in sectors like Material Science, E-commerce, Real Estate, Healthcare, Finance, and Insurance. Let's collaborate to drive innovation and create impactful solutions for your business challenges.
 
 ### 💻 What I Do
 
