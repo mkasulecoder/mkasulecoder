@@ -1,6 +1,7 @@
 <h1>Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> <br/>Fancy seeing you here!</h1>
 <h2>I am Mark Kasule</h2> 
-## 🚀 Software Engineer & Data Scientist Extraordinaire
+🚀 Software Engineer, Data Scientist Extraordinaire, and Founder of <a href="https://www.youtube.com/@elitebytecode" target="_blank">Elite Byte Code</a>
+<hr>
 
 I'm a Software and Machine Learning Engineer based in Washington D.C., specializing in user-friendly frontend UIs and robust backend systems while integrating Machine Learning models into applications. With over 7 years of experience, I have made significant impacts across various agencies, consulted for startups, and collaborated with talented teams to develop digital products in sectors like Material Science, E-commerce, Real Estate, Healthcare, Finance, and Insurance. Let's collaborate to drive innovation and create impactful solutions for your business challenges.
 
